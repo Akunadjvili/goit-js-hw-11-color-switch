@@ -7,7 +7,7 @@
   // "editor.formatOnType": true,
   "liveServer.settings.donotShowInfoMsg": true,
   "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
-  "liveServer.settings.host": "172.121.101.159",
+  // "liveServer.settings.host": "172.121.101.159",
   "explorer.confirmDelete": false,
   "editor.quickSuggestions": {
     "other": true,
